@@ -1,2 +1,2 @@
 # flutter-examples
-Collection of simple examples some Flutter features.
+Collection of simple examples with some Flutter features.
